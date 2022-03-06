@@ -1,5 +1,4 @@
 package constants;
-
 public class IDatabase {
 
 	public static final String DRIVER_NAME = "com.mysql.jdbc.Driver";
