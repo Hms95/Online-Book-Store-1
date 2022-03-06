@@ -1,6 +1,5 @@
 ### Copy and Paste the following MYSQL commands to make a dummy database for this Project :
 
-
 create database onlinebookstore;
 
 use onlinebookstore;
